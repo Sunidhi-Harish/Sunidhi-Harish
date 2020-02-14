@@ -1,9 +1,12 @@
 
 .container {
 	text-align:center;
+		background-color: rgba(0,0,0,0.5);
 	}
 .word {
 	color:white;
+	font-style: italic;
+	font-family: Arial;
 	}
 * {
 	margin:0px;
@@ -21,10 +24,15 @@ table,th,td {
 	border-color:white;
 	border-style:solid;
 	width: 50%;
+	font-family: Arial;
+	font-style: italic;
 }
 h1 {
 background-color:black;
 }
 body {
 	border-radius: 50%;
+}
+li{
+	background-color: black;
 }
