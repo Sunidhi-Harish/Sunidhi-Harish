@@ -1,0 +1,30 @@
+
+.container {
+	text-align:center;
+	}
+.word {
+	color:white;
+	}
+* {
+	margin:0px;
+	padding:0px;
+}
+
+body {
+	background-image: url("background.png");
+}
+
+table,th,td {
+	margin: auto;
+    border:1px;
+    color:white;
+	border-color:white;
+	border-style:solid;
+	width: 50%;
+}
+h1 {
+background-color:black;
+}
+body {
+	border-radius: 50%;
+}
